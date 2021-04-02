@@ -1,6 +1,6 @@
 i hate sdm 
 <<<<<<< HEAD
-hello lxg
+hello ldm
 =======
 hello lxg
 >>>>>>> master
